@@ -5,8 +5,8 @@ de Python con FreeCodeCamp.
 
 ## Proyectos
 
-- [Proyecto 1](./proyecto-1)
-- [Proyecto 2](./proyecto-2)
+- [User Settings](./user-settings)
+- [Budget App](./budget-app)
 - [Proyecto 3](./proyecto-3)
 - [Proyecto 4](./proyecto-4)
 - [Proyecto 5](./proyecto-5)
