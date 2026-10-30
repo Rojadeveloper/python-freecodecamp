@@ -1,4 +1,4 @@
-# Budget App
+# Proyecto 2 - Budget App
 
 Proyecto realizado como parte del curso de **Python de freeCodeCamp**.
 
