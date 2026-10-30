@@ -7,8 +7,8 @@ de Python con FreeCodeCamp.
 
 - [User Settings](./user-settings)
 - [Budget App](./budget-app)
-- [Proyecto 3](./proyecto-3)
-- [Proyecto 4](./proyecto-4)
+- [Polygon Area Calculator](./polygon-area-calculator)
+- [Hash Table](./hash-table)
 - [Proyecto 5](./proyecto-5)
 
 ## Aprendizaje
