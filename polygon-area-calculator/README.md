@@ -1,4 +1,4 @@
-# Polygon Area Calculator
+# Proyecto 3 - Polygon Area Calculator
 
 Proyecto realizado como parte del curso de Python de freeCodeCamp.
 
